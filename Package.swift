@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .target(
             name: "Package232",
-            dependencies: []),
+            path: "Sources"),
         .testTarget(
             name: "Package232Tests",
             dependencies: ["Package232"]),
