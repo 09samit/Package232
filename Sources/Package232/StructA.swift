@@ -1,3 +1,3 @@
-public struct Package232 {
+public struct StructA {
     public var text = "Hello, World!"
 }
